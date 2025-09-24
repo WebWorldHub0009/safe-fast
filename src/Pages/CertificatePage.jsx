@@ -12,7 +12,7 @@ import { HiDocumentText } from "react-icons/hi2";
 
 import gst from "../assets/certificates/gsat1.pdf";
 
-import DocumentsHero from "../components/DocumentsHero";
+import DocumentsHero from "../Components/DocumentsHero";
 
 const certificates = [
   {

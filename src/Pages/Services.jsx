@@ -11,7 +11,7 @@ import {
   FaStar,
   FaRocket,
 } from "react-icons/fa";
-import ServicesHero from "../components/ServicesHero";
+import ServicesHero from "../Components/ServicesHero";
 
 const Services = () => {
   return (
