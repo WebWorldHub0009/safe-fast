@@ -16,7 +16,7 @@ import img10 from "../assets/images/services/s10.jpg";
 import img11 from "../assets/images/services/s12.jpg";
 import img12 from "../assets/images/services/s11.jpg";
 
-import GalleryHero from "../components/GalleryHero";
+import GalleryHero from "../Components/GalleryHero"
 
 export default function GalleryPage() {
   const images = [
@@ -44,8 +44,8 @@ export default function GalleryPage() {
 
   return (
     <>
-      <GalleryHero />
-
+      
+<GalleryHero/>
       {/* Gallery Section */}
       <section className="w-full py-8 px-6 bg-gradient-to-b from-white to-[#F9F9F9] font-[Poppins]">
         <div className="max-w-7xl mx-auto text-center">
