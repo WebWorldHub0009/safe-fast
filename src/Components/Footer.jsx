@@ -80,7 +80,7 @@ export default function Footer() {
             About Fast Safe Packers & Movers
           </h4>
           <p className="leading-relaxed text-gray-800 text-md">
-            Fast Safe Packers & Movers is your trusted relocation partner across India. 
+          Safe Fast Packers & Movers is your trusted relocation partner across India. 
             We specialize in safe, reliable, and affordable shifting services for homes, 
             offices, and vehicles. With skilled staff, modern tools, and a commitment to 
             excellence, we make every move smooth, secure, and stress-free.
@@ -168,7 +168,7 @@ export default function Footer() {
             <strong>Owner:</strong> Akash Kumar Tomar
           </address>
           <p className="text-sm text-gray-800 mb-2">
-            <FaPhoneAlt className="inline mr-2 text-[#FFD700]" /> +91 9627200705
+            <FaPhoneAlt className="inline mr-2 text-[#FFD700]" /> +91 9627209705
           </p>
           <div className="mb-4 flex">
             <div>
