@@ -77,7 +77,7 @@ export default function Footer() {
         {/* About */}
         <div className="flex flex-col space-y-3">
           <h4 className="font-bold mb-2 text-3xl text-[#FFD700]">
-            About Fast Safe Packers & Movers
+            About Safe Fast Packers & Movers
           </h4>
           <p className="leading-relaxed text-gray-800 text-md">
           Safe Fast Packers & Movers is your trusted relocation partner across India. 
@@ -160,7 +160,7 @@ export default function Footer() {
         <div>
           <h4 className="font-bold text-2xl mb-4 text-[#FFD700]">Contact Info</h4>
           <address className="not-italic leading-relaxed mb-4 text-gray-800">
-            <strong>Head Office:</strong> Fast Safe Packers & Movers,  
+            <strong>Head Office:</strong>Safe Fast Packers & Movers,  
             Plot No. 15, Under Ground Floor, Panch Vihar Colony,  
             Gali No. 5, Behind Engineers Colony, Quarsi,  
             Aligarh, Uttar Pradesh 202001, India  
