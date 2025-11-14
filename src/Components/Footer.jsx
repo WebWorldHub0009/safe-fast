@@ -136,6 +136,15 @@ export default function Footer() {
                 <span>safefastpackersandmovers880@gmail.com</span>
               </a>
             </li>
+             <li>
+              <a
+                href="mailto:Safefastpackersandmovers93@gmail.com"
+                className="flex items-center space-x-2 hover:text-[#FFD700] transition duration-300"
+              >
+                <FaEnvelope className="text-[#FFD700]" />
+                <span>Safefastpackersandmovers93@gmail.com</span>
+              </a>
+            </li>
           </ul>
         </div>
 
@@ -160,10 +169,7 @@ export default function Footer() {
         <div>
           <h4 className="font-bold text-2xl mb-4 text-[#FFD700]">Contact Info</h4>
           <address className="not-italic leading-relaxed mb-4 text-gray-800">
-            <strong>Head Office:</strong>Safe Fast Packers & Movers,  
-            Plot No. 15, Under Ground Floor, Panch Vihar Colony,  
-            Gali No. 5, Behind Engineers Colony, Quarsi,  
-            Aligarh, Uttar Pradesh 202001, India  
+            Address House No. 610 Ground Floor Panch Vihar Colony Gali No. 5 Behind Engineers Colony Quarsi Holi Chawk Aligarh Uttar Pradesh 202001 
             <br />
             <strong>Owner:</strong> Akash Kumar Tomar
           </address>

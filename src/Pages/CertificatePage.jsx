@@ -10,7 +10,9 @@ import {
 } from "react-icons/fa";
 import { HiDocumentText } from "react-icons/hi2";
 
-import gst from "../assets/certificates/gsat1.pdf";
+import gst from "../assets/certificates/gst2.pdf";
+import udyam from "../assets/certificates/udyam3.pdf";
+import cer from "../assets/certificates/affi.pdf";
 
 import DocumentsHero from "../Components/DocumentsHero";
 
@@ -19,11 +21,26 @@ const certificates = [
     id: 1,
     name: "GST Certificate",
     description:
-      "Official Goods and Services Tax certificate ensuring compliance and trust.",
+      "Official Goods and Services Tax registration certificate ensuring compliance and trust.",
     file: gst,
     tag: "Government",
   },
- 
+  {
+    id: 2,
+    name: "Udyam Certificate",
+    description:
+      "Official Udyam Registration certificate recognizing MSME business identity.",
+    file: udyam,
+    tag: "Government",
+  },
+  {
+    id: 3,
+    name: "Affidavit Certificate",
+    description:
+      "Verified legal affidavit document confirming business authenticity.",
+    file: cer,
+    tag: "Government",
+  },
 ];
 
 const CertificatePage = () => {
